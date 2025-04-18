@@ -1,4 +1,3 @@
-# stacks_Queues_Deques
 # Stacks, Queues, and Deques
 
 This repository contains implementations of fundamental data structures: stacks, queues, and double-ended queues (deques). These data structures are essential building blocks in computer science and have various applications in algorithm design and problem-solving.
